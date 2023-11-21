@@ -1,9 +1,9 @@
 # Ex-04-Django-Models
-NAME : VARNIKA.P
+NAME : Devadhaarini.D
 
-REG NO : 23008344
+REG NO : 23006001
 
-DEPT : Artificial Intelligence and Machine Learning
+DEPT : Artificial Intelligence and Data Science 
 
 # AIM
  To create a django model with five users.
